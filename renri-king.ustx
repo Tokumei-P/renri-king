@@ -223,20 +223,6 @@ tracks:
   solo: false
   volume: 0
   pan: 0
-- phonemizer: OpenUtau.Core.DefaultPhonemizer
-  renderer_settings: {}
-  track_name: Track2
-  mute: true
-  solo: false
-  volume: 0
-  pan: 0
-- phonemizer: OpenUtau.Core.DefaultPhonemizer
-  renderer_settings: {}
-  track_name: Track4
-  mute: true
-  solo: false
-  volume: 0
-  pan: 0
 voice_parts:
 - name: main
   comment: ""
@@ -13535,21 +13521,5 @@ wave_parts:
   position: 7635
   relative_path: tracks/off-vocal.wav
   file_duration_ms: 134919.5625
-  skip_ms: 0
-  trim_ms: 0
-- name: vocals.wav
-  comment: ""
-  track_no: 4
-  position: 7693
-  relative_path: tracks/vocals.wav
-  file_duration_ms: 134873.1292
-  skip_ms: 0
-  trim_ms: 0
-- name: original.wav
-  comment: ""
-  track_no: 5
-  position: 7698
-  relative_path: tracks/original.wav
-  file_duration_ms: 134873.1249
   skip_ms: 0
   trim_ms: 0
